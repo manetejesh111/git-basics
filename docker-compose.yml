@@ -30,3 +30,5 @@ services:
       - '${REDIS_PORT}:6379'
 volumes:
   db_nodeapp_data:
+volumes:
+  db_nodeapp_data:
